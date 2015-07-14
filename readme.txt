@@ -5,18 +5,18 @@ Donate link: http://web2webs.com/woored-pasarela-plugin-pago-gratis-wordpress-wo
 Author URI: http://web2webs.com/
 Tags: servired, sermpa, redsys, woocomerce
 Requires at least: 3.5
-Tested up to: 4.2.1
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Añade la posibilidad de cobrar a través de tarjeta de crédito usando la pasarela de pago de Servired, junto con el plugin " WooCommerce" como plataforma de comercio, Servired / Sermepa / Redsýs / Cyberpack.
+Añade la posibilidad de cobrar a través de pasarelas de pago de Servired y RedSys para "WooCommerce".
 
 == Description ==
 
-Añade la posibilidad de cobrar a través de tarjeta de crédito los pedidos de tus clientes usando la pasarela de pago de Servired, junto con el plugin " WooCommerce" como plataforma de comercio, Servired / Sermepa / Redsýs / Cyberpack.
+A&ntilde;ade la posibilidad de cobrar a trav&eacute;s de tarjeta de cr&eacute;dito los pedidos de tus clientes usando la pasarela de pago de Servired, junto con el plugin &quot; WooCommerce&quot; como plataforma de comercio, Servired / Sermepa / Reds&yacute;s / Cyberpack.
 
-El plugin automáticamente marca el pedido como completado si el pago se realiza completo.
+El plugin autom&aacute;ticamente marca el pedido como completado si el pago se realiza completo.
 
 == Installation ==
 
@@ -27,3 +27,4 @@ El plugin automáticamente marca el pedido como completado si el pago se realiza 
 == Screenshots ==
 
 1. Ajustes del plugin
+2. Pasarela de pago
